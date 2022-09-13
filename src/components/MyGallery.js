@@ -81,7 +81,7 @@ export const MyGallery = () => {
     },
   ];
   return (
-    <section className="project" id="project" style={{background: `linear-gradient(270deg, #0a0a0a 0%, #565967 100%)`}}>
+    <section className="project" id="mygallery" style={{background: `linear-gradient(270deg, #0a0a0a 0%, #565967 100%)`}}>
       <Container>
         <Row>
           <Col size={12}>
