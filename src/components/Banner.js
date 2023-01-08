@@ -11,7 +11,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Leader", "Cryptotrader", "blockchain Explorer" ];
+  const toRotate = [ "Teacher", "Content Writer", "Explorer" ];
   const period = 2000;
 
   useEffect(() => {
@@ -56,7 +56,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
-                <h1>{`Hi! I'm Rama`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Hi! I'm BISHNUPRIYA`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Teacher", "Content Writer", "Teacher" ]'><span className="wrap">{text}</span></span></h1>
                   <p> It is important to identify the skills you need to develop or improve so that you can succeed in your day-to-day business operations.</p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
