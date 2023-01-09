@@ -1,12 +1,12 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard, ProjectCards } from "./ProjectCard";
 import projImg1 from "../assets/img/1.jpg";
-import projImg2 from "../assets/img/2.jpg";
+import projImg2 from "../assets/img/pg1.jpeg";
 import projImg3 from "../assets/img/3.jpg";
 import projImg4 from "../assets/img/4.jpg";
-import projImg5 from "../assets/img/5.jpg";
+import projImg5 from "../assets/img/pg2.jpeg";
 import projImg6 from "../assets/img/6.jpg";
-import projImg7 from "../assets/img/7.jpg";
+import projImg7 from "../assets/img/pg3.jpeg";
 import projImg8 from "../assets/img/8.jpg";
 import projImg9 from "../assets/img/9.jpg";
 import projImg10 from "../assets/img/10.jpg";
@@ -51,124 +51,123 @@ export const MyGallery = () => {
       description: "",
       imgUrl: projImg2,
     },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg1,
-    },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg1,
+    // },
     
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg3,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg4,
-    },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg3,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg4,
+    // },
    
    
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg6,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg8,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg9,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg10,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg11,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg12,
-    },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg6,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg8,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg9,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg10,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg11,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg12,
+    // },
    
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg13,
-    },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg13,
+    // },
   ];
 
 
 
   const projects = [
-  
     {
       title: "",
       description: "",
-      imgUrl: projImg14,
+      imgUrl: projImg5,
     },
+    {
+      title: "",
+      description: "",
+      imgUrl: projImg7,
+    },
+    {
+      title: "",
+      description: "",
+      imgUrl: projImg2,
+    },
+    
+    
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg15,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg18,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg19,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg20,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg21,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projIm22,
+    // },
    
-   
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg16,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg17,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg15,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg18,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg19,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg20,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg21,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projIm22,
-    },
-   
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg23,
-    },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg24,
-    },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg23,
+    // },
+    // {
+    //   title: "",
+    //   description: "",
+    //   imgUrl: projImg24,
+    // },
   
   ];
 

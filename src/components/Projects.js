@@ -3,8 +3,8 @@ import { ProjectCard, ProjectCards } from "./ProjectCard";
 import projImg1 from "../assets/img/pr1.jpg";
 import projImg2 from "../assets/img/pr2.jpg";
 import projImg3 from "../assets/img/pr4.jpg";
-import projImg4 from "../assets/img/img3.jpg";
-import projImg5 from "../assets/img/img5.jpeg";
+import projImg4 from "../assets/img/news18.png";
+import projImg5 from "../assets/img/facebook.png";
 import projImg6 from "../assets/img/img6.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -26,7 +26,7 @@ export const Projects = () => {
       linkurl: "https://thelogicalindian.com/humaninterest/odisha-bishnupriya-zomato-girl-28843"
     },
     {
-      title: "creative writer",
+      title: "Student",
       description: "using your imagination and creativity to express ideas and thoughts in a way which is personal to you.",
       imgUrl: projImg3,
       linkurl: "https://www.collegeskateboarding.com/"
@@ -59,14 +59,14 @@ export const Projects = () => {
     {
       title: "Teaching",
       description: "Kastaboarding Institute I use to teach Mathematics and Science..",
-      imgUrl: projImg1,
-      linkurl: "https://www.collegeskateboarding.com/"
+      imgUrl: projImg4,
+      linkurl: "https://www.news18.com/news/buzz/odisha-college-girl-joins-zomato-as-delivery-partner-to-support-family-after-father-lost-job-in-pandemic-3834479.html"
     },
     {
       title: "Food Delivery",
       description: "Zomato I use to deliver food to people during the COVID pandemic.",
-      imgUrl: projImg2,
-      linkurl: "https://thelogicalindian.com/humaninterest/odisha-bishnupriya-zomato-girl-28843"
+      imgUrl: projImg5,
+      linkurl: "https://www.facebook.com/EnglishNEWJ/videos/509660743570233/?extid=CL-UNK-UNK-UNK-AN_GK0T-GK1C&mibextid=2Rb1fB&ref=sharing"
     },
    
     
